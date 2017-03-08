@@ -39,7 +39,7 @@
               forService: KEYCHAIN_SERVICE
                    error: &error];
     
-    NSLog(@"*** KEYCHAIN has been store");
+    NSLog(@"*** KEYCHAIN has been stored");
     
 }
 
