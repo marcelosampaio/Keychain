@@ -5,6 +5,9 @@
 //  Created by Marcelo Sampaio on 3/8/17.
 //  Copyright © 2017 Marcelo Sampaio. All rights reserved.
 //
+//
+// External reference: https://github.com/reidmain/FDKeychain
+
 
 #import "ViewController.h"
 #import "FDKeychain.h"
